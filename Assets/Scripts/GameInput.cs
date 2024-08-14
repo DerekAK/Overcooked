@@ -2,8 +2,6 @@ using UnityEngine;
 
 public class GameInput : MonoBehaviour
 {
-    // Start is called before the first frame update
-
     private PlayerInputActions playerInputActions;
 
     private void Awake(){
